@@ -1,6 +1,4 @@
 # pockettalk
-Read text messages in your pocket
-
 You're driving down the highway when a text message comes in. Your phone's in 
 your pocket, so what do you do? Risk your life as well as the lives of the
 others around you as you fish around in your pocket, or read the message with
